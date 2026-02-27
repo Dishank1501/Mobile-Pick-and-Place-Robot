@@ -1,5 +1,5 @@
 Mobile Pick and Place Robot
-A high-power 4WD mobile robotic platform designed with a custom chassis for object pickup and precise placement at designated locations.
+-  A high-power 4WD mobile robotic platform designed with a custom chassis for object pickup and precise placement at designated locations.
 The system uses ESC-based motor control and a FlySky 2.4GHz RC transmitter–receiver system for smooth wireless maneuvering and real-time operation.
 
 Project Overview
